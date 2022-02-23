@@ -1,0 +1,22 @@
+.searchDiv {
+  position: absolute;
+  left: 20%;
+  top: 15%;
+  border: 3px solid black;
+  border-radius: 6px;
+  background-color: #04aa6d;
+  width: 75%;
+  color: black;
+  padding: 80px;
+}
+input {
+  text-align: center;
+  font-size: 15px;
+  width: 70%;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+label {
+  font-size: 20px;
+  font-family: monospace;
+}
